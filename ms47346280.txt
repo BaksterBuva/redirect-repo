@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "powerdatamontenegro.odoo.com",
+  "Id": "f2f2844d-b1a3-4d5f-b71b-67d1a32facda"
+}
